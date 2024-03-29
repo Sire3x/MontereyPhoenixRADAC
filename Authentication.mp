@@ -1,4 +1,4 @@
-Author: Tyler Furches
+/*Author: Tyler Furches*/
 
 SCHEMA Authentication
 
