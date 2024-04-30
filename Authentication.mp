@@ -1,5 +1,5 @@
 /*Author: Tyler Furches*/
-
+/*To use throw in firebird on mp website or download the actual application and run there, .mp file unrecognized in github*/
 SCHEMA Authentication
 
 /*-----------------------
